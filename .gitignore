@@ -26,7 +26,7 @@ xcuserdata/
 # Secrets
 # IMPORTANT: Add the file containing your API keys here
 # The path must be relative to the root of the project (where this .gitignore file is).
-BadgeIt Sense Pair/APIKeys.swift
+BLE Scanner/APIKeys.swift
 
 # Swift Package Manager
 #
